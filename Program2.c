@@ -4,7 +4,7 @@ int main()
 
     int number1, number2, add, subtract, multiply, divide;
 
-    printf("Enter two integers:");
+    printf("Enter 2 integers:");
     scanf("%d %d", &number1, &number2);
 
     add = number1 + number2;
